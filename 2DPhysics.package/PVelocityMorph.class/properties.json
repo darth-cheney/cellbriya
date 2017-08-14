@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "ErixGade 8/11/2017 21:23",
+	"super" : "CircleMorph",
+	"category" : "2DPhysics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"velocity",
+		"useGravity",
+		"announcer",
+		"bounced"
+	],
+	"name" : "PVelocityMorph",
+	"type" : "normal"
+}

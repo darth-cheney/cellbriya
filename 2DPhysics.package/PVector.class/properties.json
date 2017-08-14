@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "ErixGade 8/11/2017 15:51",
+	"super" : "Magnitude",
+	"category" : "2DPhysics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"magnitude",
+		"x",
+		"y",
+		"direction"
+	],
+	"name" : "PVector",
+	"type" : "normal"
+}

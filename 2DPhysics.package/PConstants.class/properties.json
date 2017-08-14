@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ErixGade 8/11/2017 21:20",
+	"super" : "Object",
+	"category" : "2DPhysics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"gravity"
+	],
+	"instvars" : [ ],
+	"name" : "PConstants",
+	"type" : "normal"
+}

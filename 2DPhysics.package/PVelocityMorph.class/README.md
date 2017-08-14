@@ -1,0 +1,1 @@
+I am a CircleMorph whose velocity is represented by a PVelocity. The line from my center indicates the direction of the velocity and its intensity.

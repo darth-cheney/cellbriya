@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "LabelMorph",
+	"category" : "2DPhysics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PDisplayMorph",
+	"type" : "normal"
+}

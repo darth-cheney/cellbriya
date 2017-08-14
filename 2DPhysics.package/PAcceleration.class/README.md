@@ -1,0 +1,1 @@
+I represent an acceleration vector. I am a change in velocity per unit of time.

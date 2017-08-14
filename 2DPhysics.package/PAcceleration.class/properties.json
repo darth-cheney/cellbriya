@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "ErixGade 8/11/2017 19:18",
+	"super" : "PVector",
+	"category" : "2DPhysics",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"time"
+	],
+	"name" : "PAcceleration",
+	"type" : "normal"
+}
