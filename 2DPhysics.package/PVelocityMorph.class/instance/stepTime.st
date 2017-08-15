@@ -1,3 +1,3 @@
 model - stepping
 stepTime
-	^ 500.
+	^ 10.

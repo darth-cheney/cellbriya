@@ -5,4 +5,5 @@ initialize
 	useGravity := false.
 	announcer := Announcer new.
 	bounced := false.
+	elasticity := 0.9.
 	^ self.

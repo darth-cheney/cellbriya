@@ -9,7 +9,8 @@
 		"velocity",
 		"useGravity",
 		"announcer",
-		"bounced"
+		"bounced",
+		"elasticity"
 	],
 	"name" : "PVelocityMorph",
 	"type" : "normal"
